@@ -21,4 +21,4 @@ Sample -- Foundation date consulting monitor MT
 
 We will provide basic package that you will need to start the company.
 
-<a href="http://35.200.64.23/wp-content/uploads/2017/10/28.pdf" target="blank">Sample -- Basic package for Gulco inc.</a>
+<a href="http://ec2-54-250-241-233.ap-northeast-1.compute.amazonaws.com/gluet-basic-package-sample/" target="_blank" rel="noopener">Sample -- Basic package for Gluet inc.</a>
