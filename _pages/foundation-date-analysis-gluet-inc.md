@@ -42,7 +42,7 @@ His ASC is matched to his wife's moon.
 
 <b>Personal appraisal:</b>
 
-<img class="alignnone size-full wp-image-69" src="http://ec2-54-250-241-233.ap-northeast-1.compute.amazonaws.com/wp-content/uploads/2017/11/jan_takahashi-1-.png" alt="" width="1379" height="861" />Moon...Virgo 2 degree（0-7 years old - life's start point）
+<img class="alignnone size-full wp-image-87" src="http://ec2-54-250-241-233.ap-northeast-1.compute.amazonaws.com/wp-content/uploads/2017/11/jan_takahashi-1-1-2.png" alt="" width="1379" height="861" />Moon...Virgo 2 degree（0-7 years old - life's start point）
 This moon has the advocacy from Cancer Venus and Taurus Jupiter, I wonder if it was a childhood blessed with money and things, however the direction from parents or senior people is properly done.
 
 Sun...Taurus 27.88 (28) degrees（Development potential）
