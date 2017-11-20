@@ -22,3 +22,10 @@ Sample -- Foundation date consulting monitor MT
 We provide basic package that you will need to start the company.
 
 <a href="http://ec2-54-250-241-233.ap-northeast-1.compute.amazonaws.com/gluet-basic-package-sample/" target="_blank" rel="noopener">Sample -- Basic package for Gluet inc.</a>
+<ol>
+ 	<li>Namecard</li>
+ 	<li>Logo</li>
+ 	<li>Letterhead</li>
+ 	<li>Website setting</li>
+ 	<li>Domain/email setting</li>
+</ol>
