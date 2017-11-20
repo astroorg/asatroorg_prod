@@ -3,9 +3,9 @@ ID: 177
 post_title: Members
 author: kaoru
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  http://ec2-54-250-241-233.ap-northeast-1.compute.amazonaws.com/2017/11/20/members/
+  http://ec2-54-250-241-233.ap-northeast-1.compute.amazonaws.com/members-2/
 published: true
 post_date: 2017-11-20 21:13:25
 ---
