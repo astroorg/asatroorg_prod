@@ -13,7 +13,7 @@ post_date: 2017-11-20 14:41:03
 
 <span style="font-weight: 400;">In order to decide the foundation date, we will look at the founder's horoscope and choose the date range when the transit planets access those natal planets from good angles. From that date range, we will remove weekends, void time etc then create corporate horoscopes. Based on which type of industry that the new company belongs and what kind of points that the founder think are the most important, the best date and time will be chosen.</span>
 
-<a href="http://35.200.64.23/en/testimonial/foundation-date-diagnostics-gluco-inc-yt/">Sample -- Foundation date consulting monitor YT</a>
+<a href="http://ec2-54-250-241-233.ap-northeast-1.compute.amazonaws.com/foundation-date-analysis-gluet-inc/">Sample -- Foundation date consulting monitor YT</a>
 
 Sample -- Foundation date consulting monitor MT
 
