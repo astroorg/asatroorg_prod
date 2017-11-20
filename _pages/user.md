@@ -3,9 +3,9 @@ ID: 169
 post_title: User
 author: kaoru
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  http://ec2-54-250-241-233.ap-northeast-1.compute.amazonaws.com/2017/11/20/user/
+  http://ec2-54-250-241-233.ap-northeast-1.compute.amazonaws.com/user/
 published: true
 post_date: 2017-11-20 21:12:52
 ---
