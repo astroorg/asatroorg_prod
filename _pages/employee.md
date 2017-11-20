@@ -28,4 +28,5 @@ We provide basic package that you will need to start the company.
  	<li>Letterhead</li>
  	<li>Website setting</li>
  	<li>Domain/email setting</li>
+ 	<li>Other needs</li>
 </ol>
