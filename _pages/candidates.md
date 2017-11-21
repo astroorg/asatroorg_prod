@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2017-11-21 12:40:10
 ---
-求職・転職をご希望の方へ、占星術コンサルティングとホロスコープと経歴的にマッチする会社があればポジションのご紹介をさせていただいております。
+To those who would like to seek jobs or change jobs, we are introducing positions if there is a company that matches biographical information with astrological consulting and horoscope.
 
-まずはご登録の上、コンサルティングご希望の場合は以下のフォームよりご連絡ください。こちらから追ってご連絡させていただきます。
+First of all, after registering, if you would like consulting please contact us from the form below. We will contact you shortly.
 
-[wpforms id="40"]
+[wpforms id="41"]
