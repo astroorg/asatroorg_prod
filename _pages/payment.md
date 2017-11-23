@@ -10,3 +10,5 @@ published: true
 post_date: 2017-11-20 15:29:37
 ---
 Please select a gateway for payment
+
+[simpay id="281"]
