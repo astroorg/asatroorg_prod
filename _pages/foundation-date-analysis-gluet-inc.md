@@ -42,7 +42,9 @@ His ASC is matched to his wife's moon.
 
 <b>Personal appraisal:</b>
 
-<img class="alignnone size-full wp-image-87" src="http://ec2-54-250-241-233.ap-northeast-1.compute.amazonaws.com/wp-content/uploads/2017/11/jan_takahashi-1-1-2.png" alt="" width="1379" height="861" />Moon...Virgo 2 degree（0-7 years old - life's start point）
+<img class="alignnone  wp-image-288" src="http://ec2-54-250-241-233.ap-northeast-1.compute.amazonaws.com/wp-content/uploads/2017/11/jan_takahashi3.png" alt="" width="497" height="296" />
+
+Moon...Virgo 2 degree（0-7 years old - life's start point）
 This moon has the advocacy from Cancer Venus and Taurus Jupiter, I wonder if it was a childhood blessed with money and things, however the direction from parents or senior people is properly done.
 
 Sun...Taurus 27.88 (28) degrees（Development potential）
@@ -65,7 +67,9 @@ In the period of 2017 / October to November when you are thinking to establish a
 
 <b>Fundation date chart</b>
 
-<img class="alignnone size-full wp-image-70" src="http://ec2-54-250-241-233.ap-northeast-1.compute.amazonaws.com/wp-content/uploads/2017/11/gluco3-1.png" alt="" width="1301" height="863" />Gluet, Inc.
+<img class="alignnone  wp-image-70" src="http://ec2-54-250-241-233.ap-northeast-1.compute.amazonaws.com/wp-content/uploads/2017/11/gluco3-1.png" alt="" width="497" height="349" />
+
+Gluet, Inc.
 Foundation date/time：Nov 1 17:03-17:13
 Please make sure to submit the document and get the stamp within this period.
 
